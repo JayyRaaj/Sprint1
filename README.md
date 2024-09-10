@@ -1,6 +1,6 @@
 # Unity Project
 
-Demon Link : https://mavsuta-my.sharepoint.com/:v:/g/personal/jxg2371_mavs_uta_edu/EWzaAcBGj1BOlw6xydQnhLcBieYxUWYGl0RK3bL3VP4f4A
+Demo Link : https://mavsuta-my.sharepoint.com/:v:/g/personal/jxg2371_mavs_uta_edu/EWzaAcBGj1BOlw6xydQnhLcBieYxUWYGl0RK3bL3VP4f4A
 
 ## Features
 ### 1. Toggles gravity on or off
